@@ -15,7 +15,7 @@
 
 ### Socials
 - Discord: BariumLanthanum#7853
-- Instagram: BariumLanthanum
+- Instagram: bariumlanthanum
 
 ### Setup
 - Computer : Lenovo IdeaPad Flex 5
