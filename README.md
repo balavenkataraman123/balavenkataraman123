@@ -13,6 +13,10 @@
 - More interests : 3d design, photography📸 and photo editing, video production
 - Other things I like to do: Gaming🎮, watching movies and anime, Drinking bubble tea and hanging out with the homies 
 
+### Socials
+- Discord: BariumLanthanum#7853
+- Instagram: BariumLanthanum
+
 ### Setup
 - Computer : Lenovo IdeaPad Flex 5
 - Specs: Ryzen 5 5500U, Radeon Vega 8, 16GB DDR4-3200, 512GB NVME SSD
