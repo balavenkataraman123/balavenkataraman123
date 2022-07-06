@@ -29,6 +29,7 @@
 ### Organizations
 - [Math et. Al](https://mathetal.org)
 - [Karatsuba Labs](https://karatsubalabs.com)
+- RedSuns team
 
 ### Projects
 Currently working on: 
