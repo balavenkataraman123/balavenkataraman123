@@ -24,7 +24,7 @@
 - IDE: VSCode
 - Second Monitor: Dell 21"
 - External keyboard and mouse: Redragon S101 gaming keyboard amd mouse
-- Audio: Jlab Jbuds Go TWS
+- Audio: Jlab Studio Wireless
 
 ### Organizations
 - [Math et. Al](https://mathetal.org)
