@@ -23,7 +23,7 @@
 - OS: Windows 10 and WSL for programming stuff
 - IDE: VSCode
 - Second Monitor: Dell 21"
-- External keyboard and mouse: Redragon S101 gaming keyboard amd mouse
+- External keyboard and mouse: Redragon S101 gaming keyboard and mouse
 - Audio: Jlab Studio Wireless
 
 ### Organizations
