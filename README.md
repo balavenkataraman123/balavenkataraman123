@@ -23,7 +23,7 @@
 
 #### Laptop
 - 2022 Lenovo IdeaPad Flex 5 (AMD Ryzen 5 5500U, Radeon Vega 8, 16GB DDR4-3200, 512GB NVME SSD)
-- OS: Windows 10 and Manjaro dual boot
+- OS: Pop! OS and Windows 10 (dual boot)
 #### Desktop/Server
 - 2013 Dell Precision T3600 (Intel Xeon E5-1620, Radeon R9 280X (aftermarket), 32GB DDR3-1600 (aftermarket), 256GB SATA SSD, 2TB SATA SSHD)
 - OS: Arch Linux/Windows dual boot (windows for gaming)
