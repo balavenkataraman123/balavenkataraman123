@@ -21,10 +21,12 @@
 - Augmented reality
 
 ### Setup
+- Main Desktop - Dell Precision T3600 (E5-1620, 32GB DDR3,Nvidia RTX 2060S, 2TB HDD)
+- Operating system - Pop! OS
 - Main Laptop - Lenovo IdeaPad Flex 5 (5500U 16GB DDR4, 512GB NVME)
-- Operating system- Pop! OS and Windows 10
-- Secondary laptop- Lenovo ThinkPad T410 (i5-m520,8GB DDR3, 320GB HDD) 
-- Operating system- ARCH LINUX!
+- Operating system- Fedora Linux
+- Secondary laptop (strapped to headboard of bed so I can SSH into my PC when lying down) - Lenovo ThinkPad T410 (i5-M520,8GB DDR3, 320GB HDD) 
+- Operating system- Bunsenlabs Lithium
 
 ### Contact me
 - Discord: BariumLanthanum#7853
