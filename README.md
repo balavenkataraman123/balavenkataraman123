@@ -17,7 +17,7 @@
 ### Currently learning
 - working with linux, hope to contribute something to linux
 - programming in Rust (planning to build a server backend)
-- multivariable calculus
+- multivariable calculus, physics stuff
 - Augmented reality
 
 ### Setup
