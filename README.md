@@ -7,7 +7,7 @@
 ## Bala Venkataraman (also known as BariumLanthanum)
 
 ### About me
-- High school student - MGCI TOPS class of 2025
+- MGCI TOPS class of 2025
 - Likes all things CS related, mostly does AI/ML stuff, CV and image processing 
 - Linux enjoyer
 - plans to contribute to open source software soon
