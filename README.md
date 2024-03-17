@@ -15,15 +15,16 @@
 - likes to play videogames, get bubble tea with friends, listen to music and watch anime
 
 ### Currently learning
-- working with linux, hope to contribute something to linux
-- programming in Rust (planning to build a server backend)
-- multivariable calculus
+- ~~linalg~~ finished
+- ~~multivariable calculus~~ finished
 - Lagrangian mechanics for simulations
 - Augmented reality game development
+- Nvidia PhysX
+- some more Machine Learning stuff
 
 ### Contact me
-- Discord: BariumLanthanum#7853
-- Instagram: bariumlanthanum
+Discord: bariumlanthanum
+Instagram: bariumlanthanum (inactive)
 
 
 
