@@ -8,26 +8,22 @@
 
 ### About me
 - MGCI TOPS class of 2025
-- Likes all things CS related, mostly does AI/ML stuff, CV and image processing 
+- Likes all things CS related, mostly does AI/ML stuff and computer vision
+- Hackathon enjoyer (3 W's - HTN, HT6, IgnitionHacks)
 - Linux enjoyer
-- plans to contribute to open source software soon
 - Interested in math and other math related things, like Physics
-- likes to play videogames, get bubble tea with friends, listen to music and watch anime
-
-### Currently learning
-- ~~linalg~~ finished
-- ~~multivariable calculus~~ finished
-- Lagrangian mechanics for simulations
-- Augmented reality game development
-- Nvidia PhysX
-- some more Machine Learning stuff
 
 ### Contact me
 Discord: bariumlanthanum
 Instagram: bariumlanthanum (inactive)
 
+### Gym stats cuz why not
+Bench - 105lb
+Deadlift - 125lb
+Squat - 125lb
+Body weight - 117lb
 
-
-
-
-  
+### Math contest scores because I have no shame
+AMC12 : 100ish
+AIME : 7
+Euclid : 80
