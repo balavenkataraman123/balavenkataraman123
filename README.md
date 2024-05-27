@@ -16,3 +16,12 @@
 - Deadlift - 125lb
 - Squat - 125lb 
 - bw - 117lb
+
+<details>
+  <summary> Math contest scores 💀💀💀</summary>
+  
+  - AMC12 : 100ish
+  - AIME : 7
+  - Euclid : 80
+  
+</details>
