@@ -15,4 +15,5 @@
 - Bench - 105lb
 - Deadlift - 125lb
 - Squat - 125lb 
+
 (for 117lb bw)
