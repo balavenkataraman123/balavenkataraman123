@@ -14,16 +14,16 @@
 - Interested in math and other math related things, like Physics
 
 ### Contact me
-Discord: bariumlanthanum
-Instagram: bariumlanthanum (inactive)
+- Discord: bariumlanthanum
+- Instagram: bariumlanthanum (inactive)
 
 ### Gym stats cuz why not
-Bench - 105lb
-Deadlift - 125lb
-Squat - 125lb
-Body weight - 117lb
+- Bench - 105lb
+- Deadlift - 125lb
+- Squat - 125lb
+- Body weight - 117lb
 
 ### Math contest scores because I have no shame
-AMC12 : 100ish
-AIME : 7
-Euclid : 80
+- AMC12 : 100ish
+- AIME : 7
+- Euclid : 80
