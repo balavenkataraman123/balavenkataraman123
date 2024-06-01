@@ -14,7 +14,7 @@
 ### Gym stats because why not (inspiration from @jerry.cyz)
 - Bench - 105lb
 - Deadlift - 125lb
-- Squat - 125lb 
+- Squat - 145lb 
 - bw - 117lb
 
 <details>
