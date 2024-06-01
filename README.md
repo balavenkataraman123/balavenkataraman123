@@ -15,7 +15,7 @@
 - Bench - 105lb
 - Deadlift - 145lb
 - Squat - 125lb 
-- bw - 117lb
+- bw - 116lb
 
 <details>
   <summary> Math contest scores 💀💀💀</summary>
