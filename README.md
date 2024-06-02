@@ -22,6 +22,6 @@
   
   - AMC12 : 100ish
   - AIME : 7
+  - COMC : 59🤡
   - Euclid : 80
-  
 </details>
