@@ -9,7 +9,8 @@
 - Discord: bariumlanthanum
 - Instagram: bariumlanthanum (inactive)
 
-### Gym stats because why not (inspiration from @jerry.cyz)
+### Gym stats because why not 
+(inspiration from @jerry.cyz)
 - Bench - 105lb
 - Deadlift - 145lb
 - Squat - 125lb 
