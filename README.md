@@ -27,4 +27,4 @@ Setup
 - Shock: X-fusion Coil
 - Brakes: Shimano twin-piston hydraulic with 160mm rotors
 - Tires: Kenda Blue Groove
-- Crankset: Truvativ Blaze 170mm
+- Crankset: Truvativ Blaze 165mm
