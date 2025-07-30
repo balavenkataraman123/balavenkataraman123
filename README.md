@@ -12,10 +12,8 @@ discord: bariumlanthanum
 strava: https://www.strava.com/athletes/173493529
 
 
+
 Bench: 135lb
-
 Deadlift: 175lb
-
 Squat: 185lb
-
 BW: 120lb
