@@ -11,19 +11,20 @@ discord: bariumlanthanum
 
 strava: https://www.strava.com/athletes/173493529
 
+Stats
 
-Bench: 135lb
-Deadlift: 175lb
-Squat: 185lb
-BW: 120lb
+- Bench: 135lb
+- Deadlift: 175lb
+- Squat: 185lb
+- BW: 120lb
 
 
 Setup
 
-Frame: Haro X1 Extreme
-Drivetrain: SRAM X7 2x9 (20t-42t chainring, 10t-34t casette)
-Fork: Marzocchi Corsa Superleggera 
-Shock: X-fusion Coil
-Brakes: Shimano Tektro Hydraulic with 160mm rotors
-Tires: Kenda Blue Groove
-Crankset: Truvativ Blaze
+- Frame: Haro X1 Extreme
+- Drivetrain: SRAM X7 2x9 (20t-42t chainring, 10t-34t casette)
+- Fork: Marzocchi Corsa Superleggera 
+- Shock: X-fusion Coil
+- Brakes: Shimano Tektro Hydraulic with 160mm rotors
+- Tires: Kenda Blue Groove
+- Crankset: Truvativ Blaze 170mm
