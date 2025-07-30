@@ -25,6 +25,6 @@ Setup
 - Groupset: SRAM X7 2x9 (20t-42t chainring, 10t-34t casette)
 - Fork: Marzocchi Corsa Superleggera 
 - Shock: X-fusion Coil
-- Brakes: Shimano Tektro Hydraulic with 160mm rotors
+- Brakes: Shimano twin-piston hydraulic with 160mm rotors
 - Tires: Kenda Blue Groove
 - Crankset: Truvativ Blaze 170mm
