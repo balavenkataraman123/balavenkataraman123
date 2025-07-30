@@ -22,7 +22,7 @@ Stats
 Setup
 
 - Frame: Haro X1 Extreme
-- Drivetrain: SRAM X7 2x9 (20t-42t chainring, 10t-34t casette)
+- Groupset: SRAM X7 2x9 (20t-42t chainring, 10t-34t casette)
 - Fork: Marzocchi Corsa Superleggera 
 - Shock: X-fusion Coil
 - Brakes: Shimano Tektro Hydraulic with 160mm rotors
