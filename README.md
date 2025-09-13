@@ -1,6 +1,6 @@
 ## Bala Venkataraman
 
-Waterloo CS
+Waterloo CS (Calisthenics Studies)
 
 Interested in Computer Vision, Robotics, Electric vehicles, Alternative Energy Systems and Physics in general.
 
